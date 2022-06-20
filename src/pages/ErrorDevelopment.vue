@@ -1,11 +1,11 @@
 <template>
-  <div class="fullscreen bg-blue text-white text-center q-pa-md flex flex-center">
+  <div class="fullscreen bg-primary text-center q-pa-md flex flex-center">
     <div>
-      <div style="font-size: 30vh">
-        418
+      <div class="text-accent" style="font-size: 30vh">
+        404
       </div>
 
-      <div class="text-h2" style="opacity:.4">
+      <div class="text-h2 text-secondary">
         Cette page est actuellement en développement !
       </div>
     </div>
