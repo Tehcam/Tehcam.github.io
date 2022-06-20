@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkcv_portfolio"]=globalThis["webpackChunkcv_portfolio"]||[]).push([[705],{9705:(e,o,l)=>{l.r(o),l.d(o,{default:()=>t});var i=l(9835);const n=(0,i.aZ)({__name:"ErrorDevelopment",setup(e){return(e,o)=>((0,i.wg)(),(0,i.iD)("div",null,"This page is now in development..."))}}),r=n,t=r}}]);
