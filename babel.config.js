@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* eslint-disable */
-=======
-/* eslint-env node */
->>>>>>> 16b96c8f28d5dfe3af6f23cc032efc371733fd3b
 
 module.exports = api => {
   return {
@@ -16,7 +12,3 @@ module.exports = api => {
     ]
   }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 16b96c8f28d5dfe3af6f23cc032efc371733fd3b
