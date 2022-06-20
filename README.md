@@ -1,7 +1,7 @@
 # CV & Portfolio (cv-portfolio)
 
-CV & Portfolio Web Site
-See more at: (tehcam.github.io)[https://tehcam.github.io]
+CV & Portfolio Web Site <br>
+See more at: [tehcam.github.io](https://tehcam.github.io)
 
 ## Install the dependencies
 ```bash
