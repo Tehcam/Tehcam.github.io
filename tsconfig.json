@@ -1,14 +1,6 @@
 {
-<<<<<<< HEAD
   "extends": "@quasar/app-webpack/tsconfig-preset",
   "compilerOptions": {
     "baseUrl": "."
   }
 }
-=======
-  "extends": "@quasar/app/tsconfig-preset",
-  "compilerOptions": {
-    "baseUrl": "."
-  }
-}
->>>>>>> 16b96c8f28d5dfe3af6f23cc032efc371733fd3b
